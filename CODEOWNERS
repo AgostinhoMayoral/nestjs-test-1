@@ -1,0 +1,3 @@
+*.TS @fulanodetal
+*.json @outrapessoa
+/.docker/ @fulanodetal
